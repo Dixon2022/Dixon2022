@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hola, soy Dixon 👋
 
-<!--
-**Dixon2022/Dixon2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer  
+🚀 Interesado en arquitectura de software y sistemas escalables  
+🌎 Costa Rica
 
-Here are some ideas to get you started:
+## Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+- .NET
+- SQL Server
+- Docker
+- Kubernetes
+
+## Actualmente aprendiendo
+
+- Clean Architecture
+- Microservicios
+- IA aplicada al desarrollo
+
+## Contacto
+
+- LinkedIn: https://linkedin.com/in/tuusuario
