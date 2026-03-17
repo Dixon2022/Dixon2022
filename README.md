@@ -1,119 +1,116 @@
-# 👋 Hi, I'm Dixon Araya
+# 👋 Hi, I'm Dixon Araya  
 
-💻 .NET Developer specialized in building scalable web applications and APIs using ASP.NET Core, C#, and SQL Server.  
-🚀 Passionate about software architecture, clean code, and backend systems.  
-🌎 Based in Costa Rica.
+<p align="center">
+  <b>.NET Developer | Backend Specialist | Clean Architecture Enthusiast</b><br>
+  💻 Building scalable systems with ASP.NET Core & C#<br>
+  🌎 Costa Rica  
+</p>
 
----
-
-## 👨‍💻 About Me
-
-I am a .NET Developer with experience building enterprise web applications using ASP.NET Core, Entity Framework Core, and SQL Server.
-
-I focus on developing scalable and maintainable systems by applying **SOLID principles**, **design patterns**, and modern **software architecture practices**.
-
-I enjoy working across the full software development lifecycle — from **database design and API development** to **frontend integration and deployment**.
+<p align="center">
+  <a href="https://dixons-portafolio.vercel.app/" target="_blank">
+    🚀 View My Portfolio
+  </a>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 👨‍💻 About Me  
 
-### Backend
-- C#
-- ASP.NET Core
-- ASP.NET MVC
-- ASP.NET Web API
-- Entity Framework Core
-- RESTful APIs
+💡 I’m a **.NET Developer** focused on building **scalable, maintainable, and high-performance applications** using modern backend technologies.
 
-### Frontend
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Razor Pages
+I enjoy transforming ideas into robust systems by applying:  
+✔️ SOLID Principles  
+✔️ Clean Architecture  
+✔️ Design Patterns  
 
-### Database
-- SQL Server
-- T-SQL
-- Stored Procedures
-- Query Optimization
-- Database Design
-
-### Architecture
-- MVC
-- MVVM
-- Microservices
-- SOLID Principles
-- Design Patterns
-- Clean Architecture
-- Dependency Injection
-
-### Cloud & DevOps
-- Azure (App Service, SQL Database, Storage)
-- AWS
-- Docker
-- Kubernetes (Basic)
-- CI/CD Pipelines
-
-### Tools
-- Git
-- Visual Studio
-- Visual Studio Code
-- Postman
-- Swagger
-- Jira
-- Agile / Scrum
+🔍 I like working across the full development lifecycle — from **database design** to **API development**, **frontend integration**, and **deployment**.
 
 ---
 
-## 🚀 Professional Experience
+## 🛠 Tech Stack  
 
-### .NET Full Stack Developer — Team STEAM
-**Aug 2025 – Dec 2025**
+### ⚙️ Backend
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Web API](https://img.shields.io/badge/Web_API-008080?style=for-the-badge)
+![Entity Framework](https://img.shields.io/badge/EF_Core-68217A?style=for-the-badge)
 
-- Developed backend services and RESTful APIs using ASP.NET Core and C#
-- Designed and optimized SQL Server databases improving query performance by **40%**
-- Implemented Entity Framework Core with **migrations and repository pattern**
-- Built frontend components using **JavaScript, HTML5, and CSS3** integrated with APIs
+### 🎨 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+### 🗄 Database
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### ASP.NET Developer — Business Management System
-**Mar 2025 – Jun 2025**
+### 🧠 Architecture & Practices
+`MVC` • `MVVM` • `Microservices` • `SOLID` • `Clean Architecture` • `Design Patterns` • `Dependency Injection`
 
-- Designed a business management system using **ASP.NET Core Razor Pages**
-- Created RESTful API controllers with proper HTTP standards and validation
-- Designed database schema using **Entity Framework Code-First**
-- Implemented an **audit logging system** to track database changes
-
----
-
-## 🎓 Education
-
-**Bachelor’s Degree in Business Computing**  
-University of Costa Rica
-
-**Mid-Level Technician**  
-Zarcero Technical College
+### ☁️ Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📜 Certifications
+## 🚀 Professional Experience  
 
-- Scrum Fundamentals Certified
-- Fundamentals of Agile PM
-- Celonis Process Mining
-- Generative AI for Project Management
+### 💼 .NET Full Stack Developer — Team STEAM  
+📅 Aug 2025 – Dec 2025  
+
+- Built scalable **RESTful APIs** using ASP.NET Core & C#  
+- Improved SQL performance by **40%** through query optimization  
+- Applied **Repository Pattern + EF Core Migrations**  
+- Developed frontend integrations using JavaScript, HTML & CSS  
+
+---
+
+### 💼 ASP.NET Developer — Business Management System  
+📅 Mar 2025 – Jun 2025  
+
+- Developed system with **Razor Pages**  
+- Designed **clean API controllers** with validation  
+- Built database using **Code-First approach**  
+- Implemented **audit logging system** for tracking changes  
 
 ---
 
-## 🌎 Languages
+## 🎓 Education  
 
-- Spanish — Native
-- English — Intermediate (B1/B2)
-- Portuguese — Basic (A2)
+🎓 **Bachelor’s Degree in Business Computing**  
+University of Costa Rica  
+
+🎓 **Mid-Level Technician**  
+Zarcero Technical College  
 
 ---
+
+## 📜 Certifications  
+
+✔️ Scrum Fundamentals Certified  
+✔️ Fundamentals of Agile PM  
+✔️ Celonis Process Mining  
+✔️ Generative AI for Project Management  
+
+---
+
+## 🌎 Languages  
+
+🇪🇸 Spanish — Native  
+🇺🇸 English — Intermediate (B1/B2)  
+🇧🇷 Portuguese — Basic (A2)  
+
+---
+
+## 📫 Let's Connect  
+
+💼 Portfolio: https://dixons-portafolio.vercel.app/  
+
+---
+
+<p align="center">
+  ⚡ "Building clean, scalable, and meaningful software."
+</p>
 
 ## 📫 Contact
 
